@@ -15,7 +15,7 @@ This module provides:
 
 ## Binary converter
 
-This module is improved version of Python built-in function. Smartieee library provides:
+This module is improved version of Python built-in function bin(). Smartieee library eliminates its limitations and provides:
 * 2-way conversion (decimal - binary, binary - decimal), 
 * float type numbers support
 
